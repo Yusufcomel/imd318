@@ -43,7 +43,7 @@ const music_list = [
         img : 'index/images/album4.jpg',
         name : 'WOKE UP',
         artist : '',
-        music : 'vmusic/XG WOKE UP.mp3'
+        music : 'index/music/XG WOKE UP.mp3'
     }
 ];
 
